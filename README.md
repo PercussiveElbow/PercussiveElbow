@@ -3,15 +3,18 @@
 Pentester, I like Crystal/Ruby and write security tools of dubious quality.
 
 #### :blue_book: My blog 
-* [Blog](https://mil0.io)
+* [Security blog](https://mil0.io)
 
-#### :gem: Crystal SDKs I've written for cool infosec projects 
+#### :gem: Crystal SDKs I'm working on
 * [Shodan](https://github.com/PercussiveElbow/Shodan)
 * [Crobat](https://github.com/PercussiveElbow/crobat-sdk-crystal)
+* [Docker](https://github.com/PercussiveElbow/docker-crystal)
 
-#### :computer: Other security tools I've written
-* [Docker escape tool](https://github.com/PercussiveElbow/docker-escape-tool)
+#### :computer: Other security tools, unassorted scripts etc I've written
+* [Docker Escape Tool](https://github.com/PercussiveElbow/docker-escape-tool)
 * [Dependensee](https://github.com/PercussiveElbow/dependensee)
+* [CVE API](https://github.com/PercussiveElbow/CVE-API)
+* [InfoSec Whitepaper scraper](https://github.com/PercussiveElbow/InfosecWhitePaperScraping)
 
 <!--
 **PercussiveElbow/PercussiveElbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
