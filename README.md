@@ -22,7 +22,9 @@ Pentester, I like Crystal/Ruby and write security tools of dubious quality.
 #### 📑 Notes/resources
 * [XSS Resources](https://github.com/PercussiveElbow/XSS-Resources)
 
-
+#### ⚠️ CVEs/Advisories
+* [CVE-2020-26211 - BookStack - XSS+Open Redirect (Authed)](https://github.com/BookStackApp/BookStack/security/advisories/GHSA-r2cf-8778-3jgp)
+* [CVE-2020-26260 - BookStack - SSRF (Authed)](https://github.com/BookStackApp/BookStack/security/advisories/GHSA-8wfc-w2r5-x7cr)
 
 <!--
 **PercussiveElbow/PercussiveElbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
