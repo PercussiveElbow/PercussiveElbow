@@ -2,8 +2,6 @@
 
 Pentester, I like Crystal/Ruby and write security tools of dubious quality.
 
-#### :blue_book: My blog 
-* [Security blog](https://mil0.io)
 
 #### :gem: Crystal SDKs I'm working on
 * [Shodan](https://github.com/PercussiveElbow/Shodan)
